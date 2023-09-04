@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shwetapawaar
 - 👀 I’m interested in learning data science 
-- 🌱 I’m currently learning python and Tableau
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Pawarshweta2201@gmail.com
 
